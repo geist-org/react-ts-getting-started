@@ -1696,6 +1696,11 @@
   resolved "https://registry.yarnpkg.com/@xtuc/long/-/long-4.2.2.tgz#d291c6a4e97989b5c61d9acf396ae4fe133a718d"
   integrity sha512-NuHqBY1PB/D8xU6s/thBgOAiAP7HOYDQ32+BFZILJ8ivkUkAHQnWfn6WhL79Owj1qmUnoN/YPhktdIoucipkAQ==
 
+"@zeit-ui/react@^0.0.1-alpha.42":
+  version "0.0.1-alpha.42"
+  resolved "https://registry.yarnpkg.com/@zeit-ui/react/-/react-0.0.1-alpha.42.tgz#fb1f571656d92578c64fcfa4f89718e6ca41a77b"
+  integrity sha512-SsYNv1yXp+8w+sbGRDjox86lBxtjnJcwHBuzXcNKHkGCuJjAiSxPvkJXuwykVu07H84a3i89VW9Yi1dVMh0l9w==
+
 abab@^2.0.0:
   version "2.0.3"
   resolved "https://registry.yarnpkg.com/abab/-/abab-2.0.3.tgz#623e2075e02eb2d3f2475e49f99c91846467907a"

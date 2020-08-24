@@ -24,7 +24,7 @@
     ]
   },
   "dependencies": {
-    "@zeit-ui/react": "latest",
+    "@geist-ui/react": "latest",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1"

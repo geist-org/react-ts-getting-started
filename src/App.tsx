@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import { Button, Link } from '@zeit-ui/react';
+import { Button, Link } from '@geist-ui/react';
 
 const App = () => {
   return (

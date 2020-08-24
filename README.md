@@ -1,8 +1,8 @@
-## Typescript demo for ZEIT UI React
+## Typescript demo for Geist UI React
 
 ### Guide
 
-1. Clone: `git clone git@github.com:zeit-ui/react-ts-getting-started.git`
+1. Clone: `git clone git@github.com:geist-org/react-ts-getting-started.git`
 2. Install deps: `npm i` or `yarn`
 3. Start: `npm start` or `yarn start`
 

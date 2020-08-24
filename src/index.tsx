@@ -3,14 +3,14 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
-import { ZEITUIProvider, CSSBaseline } from '@zeit-ui/react';
+import { GeistProvider, CSSBaseline } from '@geist-ui/react';
 
 ReactDOM.render(
   <React.StrictMode>
-    <ZEITUIProvider>
+    <GeistProvider>
       <CSSBaseline />
       <App />
-    </ZEITUIProvider>
+    </GeistProvider>
   </React.StrictMode>,
   document.getElementById('root')
 );
